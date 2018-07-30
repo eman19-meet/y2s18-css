@@ -1,1 +1,23 @@
-
+body 
+{
+	background-color:#aaa1c8;
+	font-family:Arial;
+	font-size:20px;
+	color:white;
+}
+a
+{
+	color:black;
+}
+.V
+{
+	color:lightgreen;
+}
+.NotV
+{
+	color:black;
+}
+#special
+{
+	background-color: lightgreen;
+}
